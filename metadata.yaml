@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26631
     wikipedia: https://en.wikipedia.org/wiki/Emmett_Jay_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24627#Booker-T.-WashingtonBuilder-of-a-Civilization
 gutenberg_issued: '2008-02-16'
 gutenberg_type: Text
 identifiers:
